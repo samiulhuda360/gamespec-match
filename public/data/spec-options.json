@@ -1,0 +1,22 @@
+{
+    "cpu": [
+        "Intel Core i5-750",
+        "Intel Core i5-12400",
+        "Intel Core i7-9700K",
+        "AMD Ryzen 5 3600",
+        "AMD Ryzen 5 5600X"
+    ],
+    "gpu": [
+        "NVIDIA GeForce GTX 1060",
+        "NVIDIA GeForce RTX 3060",
+        "NVIDIA GeForce RTX 4070",
+        "AMD Radeon RX 580",
+        "AMD Radeon RX 6700 XT"
+    ],
+    "ram": ["4 GB", "8 GB", "12 GB", "16 GB", "24 GB", "32 GB", "64 GB"],
+    "platform": [
+        { "value": "pc", "label": "Windows" },
+        { "value": "mac", "label": "macOS" },
+        { "value": "linux", "label": "Linux" }
+    ]
+}

@@ -1,0 +1,32 @@
+# ============================================
+# TESTING/DEVELOPMENT MODE - DO NOT INDEX
+# ============================================
+# This site is currently in testing/development.
+# All search engines are blocked.
+# Remove this file or update it before going live!
+# ============================================
+
+User-agent: *
+Disallow: /
+
+# Block all major search engines explicitly
+User-agent: Googlebot
+Disallow: /
+
+User-agent: Bingbot
+Disallow: /
+
+User-agent: Slurp
+Disallow: /
+
+User-agent: DuckDuckBot
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /
+
+User-agent: ia_archiver
+Disallow: /
